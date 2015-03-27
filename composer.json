@@ -1,4 +1,12 @@
 {
     "name": "liuqian123/test",
-    "description": "A short description of what your package does",
+    "description": "Mock Object library for PHPUnit",
+    "type": "library",
+    "keywords": [
+        "ld",
+        "t"
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    }
 }
